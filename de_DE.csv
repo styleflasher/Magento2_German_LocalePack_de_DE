@@ -6187,7 +6187,7 @@ Segment Customers matching error,Segmentkunden-Matchingfehler
 Segment Information,Segmentinformationen
 Segment Name,Segmentname
 Segments,Segmente
-Select,Auswählen
+Select,Auswahlen
 "Select ""Yes"" to add this attribute to the list of column options in the customer grid.","""Ja"" auswählen, um dieses Attribut zur Liste der Spaltenoptionen im Kundenraster hinzuzufügen."
 "Select ""Yes"" to add this attribute to the list of column options in the product grid.","Wählen Sie ""Ja"", um das Attribut zur Liste der Spaltenoptionen im Produktraster hinzuzufügen."
 "Select ""Yes"" to add this attribute to the list of filter options in the customer grid.","""Ja"" auswählen, um dieses Attribut zur Liste der Filteroptionen im Kundenraster hinzuzufügen."
@@ -7714,7 +7714,7 @@ Type Code,Typ Code
 Type Specific Options,Typ spezielle Optionen
 Type:,Typ:
 U,U
-ui/grid/filters/elements/select,UI / Raster/ Filter / Elemente / Auswählen
+ui/grid/filters/elements/select,ui/grid/filters/elements/select
 Unable to cancel Express Checkout,"Nicht in der Lage, den Express Checkout abzubrechen"
 Unable to create backup due to php exec function is disabled,"Ein Backup konnte nicht erstellt werden, da die php exec-Funktion ausgeschaltet ist."
 Unable to create directory: %1,Kann Verzeichnis nicht erstellen: %1
