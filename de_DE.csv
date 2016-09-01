@@ -869,8 +869,8 @@ Area code not set: Area code must be set before starting a session.,Postleitzahl
 Area is already set,Bereich ist bereits gesetzt
 Argument type duplication in class %1 in %2%3%4,Doppelter Argumenttyp in Klasse %1 in %2%3%4
 Array root keys must not be numeric.,Array-Rootkey darf nicht numerisch sein
-As Low as,So niedrig wie
-As low as,So niedrig wie
+As Low as,bereits ab
+As low as,bereits ab
 ASCII,ASCII
 Ask Customer,Kunden fragen
 Assign a Customer Group,Kundengruppe zuweisen
