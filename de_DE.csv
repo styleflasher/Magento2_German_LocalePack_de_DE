@@ -9042,3 +9042,6 @@ ZIP/Postal Code,PLZ/Postleitzahl
 Zip/Postal Code is Optional for,PLZ / Postleitzahl ist optional für
 Review & Payments,Überprüfung & Zahlungen
 "Enter your destination to get a shipping estimate.","Geben Sie Ihren Zielort ein, die geschätzten Versandkosten zu erhalten."
+"Provided Zip/Postal Code seems to be invalid.","Die eingegebene PLZ scheint nicht korrekt zu sein."
+"Example:","Beispiel:"
+"If you believe it is the right one you can ignore this notice.","Wenn sie sich sicher sind dass diese stimmt, können sie diese Meldung ignorieren."
